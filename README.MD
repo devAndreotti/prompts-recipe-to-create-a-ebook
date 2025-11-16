@@ -19,6 +19,17 @@ O projeto demonstra um fluxo de trabalho completo, desde a pesquisa e redação 
 
 ---
 
+## 🛠️ Tecnologias Utilizadas
+
+O ebook foi criado utilizando um *pipeline* de ferramentas de IA e edição para garantir a qualidade e a eficiência na produção:
+
+*   ✍️ **[Manus AI](https://manus.im/)** – Geração do texto base em 10 "cards" e revisão inicial do conteúdo.
+*   🎨 **[Gamma AI](https://gamma.app/)** – Geração do layout e diagramação inicial do ebook a partir do texto.
+*   🖥️ **[Microsoft PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)** – Edição, refinamento visual e melhoria do design final do ebook.
+*   📄 **[Output.pdf](./output/ebook%20output.pdf)** – O produto final, pronto para leitura.
+
+---
+
 ## 🖼️ Imagens do Projeto
 
 | Diagrama | Conclusão |
@@ -28,17 +39,6 @@ O projeto demonstra um fluxo de trabalho completo, desde a pesquisa e redação 
 | Campanha | Paralelo | Futuro | Incidente |
 | :---: | :---: | :---: | :---: |
 | ![Uma Pessoa Mobile](./assets/book6.png) | ![Duas Pessoa Mobile](./assets/book3.png) | ![Página Inicial Mobile](./assets/book5.png) | ![Upload Mobile](./assets/book2.png) |
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-O ebook foi criado utilizando um *pipeline* de ferramentas de IA e edição para garantir a qualidade e a eficiência na produção:
-
-*   ✍️ **[Manus AI](https://manus.im/)** – Geração do texto base em 10 "cards" e revisão inicial do conteúdo.
-*   🎨 **[Gamma AI](https://gamma.app/)** – Geração do layout e diagramação inicial do ebook a partir do texto.
-*   🖥️ **[Microsoft PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)** – Edição, refinamento visual e melhoria do design final do ebook.
-*   📄 **[Output.pdf](./output/ebook%20output.pdf)** – O produto final, pronto para leitura.
 
 ---
 
